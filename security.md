@@ -120,13 +120,13 @@ Allows you to:
 
 ### Professional Services
 
-* AWS Professional Services & AWS Partner Network help users create more compregensive solutinos to security problems, from strategic advice, deployments, & re-engineering.
+* AWS Professional Services & AWS Partner Network help users create more comprehensive solutions to security problems, from strategic advice, deployments, & re-engineering.
 
 Support offered include:
 
 * Enterprise Security Architecure. Evaluate the nature of workloads you are deploying in AWS, as well as security needs. Define an architecture and set of security controls that will protect data and workloads according to best practices
 * Policies and Controls-Mapping. Provide detailed recommendations on how to satisfy requirements and demonstrate compliance. Based upon own security policy and any third party or regulatory mandates
-* Security Operations Playbook. Define correct organisational structures and processes to ensure security controls working correctly. Deteck and respond to security issues that arise within AWS environment
+* Security Operations Playbook. Define correct organisational structures and processes to ensure security controls working correctly. Detect and respond to security issues that arise within AWS environment
 * Business Unit Workshops. Work with IT and Business Leaders across organisation to understand their plans and strategies around Cloud adoption, educate them on the best way to satisfy their requirements while minimising risk to organisation, and devise an organisation wide security framework for deploying workloads on AWS.
 
 ---
