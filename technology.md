@@ -341,5 +341,39 @@
 
 ## Resources for Technology Support
 
+* three different support plans: Developer Support, Business Support, Enterprise Support
+
+### AWS Support Ticket 
+
+* can create a ticket if on a support plan
+* faster to get support via console & create request
+
+### Technical Account Manager 
+
+* primary point of contact
+* provides guidance, architectural review, ongoing communication to keep account holder informed and well informed as they plan, deploy & proactively optimise solutions
+* dedicated voice within AWS that serves as technical point of contact & advocate
+* proactive guidance & best practices to help optimise AWS environment 
+* orchestration and access to breadth and depth of technical expertise across full range of AWS 
+
+### Trusted Advisor 
+
+* online resource that helps provision resources following best practices
+* helps reduce costs, increase performance & fault tolerance, improve security 
+* four core checks availabile to all AWS customers, full use of AWS Trusted Advisor available to Business/Enterprise support 
+
+### AWS Whitepapers
+
+* comprehensive list of technical AWS whitepapers, topics such as architecture, security & economics 
+* authored by AWS Team, independent analysts, AWS Community (Customers or Partners)
+
+### AWS Service Health Dashboard
+
+* general view of health of all AWS Services
+* status.aws.amazon.com
+
+### AWS Personal Health Dashboard
+
+* personal view of healh of AWS services used by you 
 
 ---
